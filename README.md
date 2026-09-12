@@ -1,4 +1,3 @@
->>> %Run -c $EDITOR_CONTENT
 <p align="center">
   <img src="images/gullfaxi_logo.png" alt="GullfaxiHCON Logo" width="300">
 </p>
